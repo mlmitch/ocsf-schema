@@ -4,6 +4,10 @@
   "extends": "object",
   "name": "finding_info",
   "attributes": {
+    "activities": {
+      "group": "primary",
+      "requirement": "optional"
+    },
     "analytic": {
       "requirement": "recommended"
     },

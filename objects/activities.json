@@ -1,0 +1,16 @@
+{
+  "description": "Network Activity events report system and network activity.",
+  "caption": "Activities",
+  "name": "activities",
+  "extends": "object",
+  "attributes": {
+    "process_activities": {
+      "group": "primary",
+      "requirement": "optional"
+    },
+    "http_activities": {
+      "group": "primary",
+      "requirement": "optional"
+    }
+  }
+}
