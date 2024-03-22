@@ -4,6 +4,9 @@
   "extends": "object",
   "name": "related_event",
   "attributes": {
+    "activity": {
+      "requirement": "optional"
+    },
     "attacks": {
       "requirement": "optional"
     },

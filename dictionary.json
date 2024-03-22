@@ -3,6 +3,21 @@
   "description": "The Attribute Dictionary defines attributes and includes references to the events and objects in which they are used.",
   "name": "dictionary",
   "attributes": {
+    "activity": {
+      "type": "activity",
+      "description": "Container for a single activity event.",
+      "caption": "Activity"
+    },
+    "process_activity": {
+      "type": "process_activity",
+      "description": "A process activity event.",
+      "caption": "Process Activity"
+    },
+    "http_activity": {
+      "type": "http_activity",
+      "description": "An HTTP activity event.",
+      "caption": "HTTP Activity"
+    },
     "access_list": {
       "caption": "Access List",
       "description": "The list of requested access rights.",

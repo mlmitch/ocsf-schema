@@ -1,0 +1,19 @@
+{
+    "description": "Container for a single activity event",
+    "caption": "Activity",
+    "name": "activity",
+    "extends": "object",
+    "attributes": {
+        "http_activity": {
+            "group": "primary",
+            "requirement": "optional"
+        },
+        "process_activity": {
+            "group": "primary",
+            "requirement": "optional"
+        }
+    },
+    "constraints": {
+        "just_one": ["http_activity", "process_activity"]
+    }
+}
