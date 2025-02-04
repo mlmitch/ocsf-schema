@@ -13,6 +13,9 @@
       "description": "The process that loaded the module.",
       "group": "primary",
       "requirement": "required"
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

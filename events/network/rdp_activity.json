@@ -79,6 +79,9 @@
       "description": "The server response in an RDP network connection.",
       "group": "primary",
       "requirement": "recommended"
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

@@ -40,6 +40,14 @@ Thankyou! -->
 -->
 
 ## [Unreleased]
+### Added
+* #### Dictionary Attributes
+    1. Added `status_detail_id` as an `integer_t` enum. #????
+
+### Improved
+* #### Event Classes
+    1. Added `status_detail_id` to the Base Event. #????
+
 
 ## [v1.4.0] - January 31st, 2025
 

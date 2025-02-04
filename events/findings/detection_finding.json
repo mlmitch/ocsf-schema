@@ -76,6 +76,9 @@
       "requirement": "optional",
       "profile": null
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "vulnerabilities": {
       "description": "Describes vulnerabilities reported in a Detection Finding.",
       "group": "context",

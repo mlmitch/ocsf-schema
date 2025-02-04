@@ -59,6 +59,9 @@
       "description": "The permissions mask that was requested by the process.",
       "group": "primary",
       "requirement": "recommended"
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

@@ -37,6 +37,9 @@
       "description": "The email file attachment.",
       "group": "primary",
       "requirement": "required"
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

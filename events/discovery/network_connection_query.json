@@ -73,6 +73,9 @@
           "description": "The socket connection has been closed by the local application and the remote peer simultaneously, and the remote peer has not yet acknowledged the close attempt of the local application."
         }
       }
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

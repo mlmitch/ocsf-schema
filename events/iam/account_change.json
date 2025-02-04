@@ -72,6 +72,9 @@
       },
       "profile": null
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "user": {
       "description": "The user that was a target of an activity.",
       "group": "primary",

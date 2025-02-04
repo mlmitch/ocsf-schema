@@ -34,6 +34,9 @@
       "description": "The Software Bill of Materials (SBOM) of the device software that is being discovered by an inventory process.",
       "group": "primary",
       "requirement": "recommended"
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

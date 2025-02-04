@@ -117,6 +117,9 @@
       "description": "The start time of the scan job.",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "total": {
       "description": "The total number of items that were scanned; zero if no items were scanned.",
       "group": "primary",

@@ -71,6 +71,9 @@
       "group": "primary",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "transaction_uid": {
       "description": "The unique identifier of the transaction. This is typically a random number generated from the client to associate a dhcp request/response pair.",
       "group": "primary",

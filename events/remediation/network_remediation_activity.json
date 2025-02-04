@@ -9,6 +9,9 @@
       "description": "The network connection that pertains to the remediation event.",
       "group": "primary",
       "requirement": "required"
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

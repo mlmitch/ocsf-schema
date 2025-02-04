@@ -33,6 +33,9 @@
         "since": "1.4.0"
       }
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "url": {
       "description": "The URL included in the email content.",
       "group": "primary",

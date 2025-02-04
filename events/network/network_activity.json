@@ -37,6 +37,9 @@
         }
       }
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "url": {
       "description": "The URL details relevant to the network traffic.",
       "group": "primary",

@@ -138,6 +138,9 @@
       "group": "context",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "table": {
       "description": "Describes the table where classified or sensitive data is stored in, or was accessed from. The table object represents a table within a structured relational database, warehouse, lake, or similar.",
       "group": "primary",

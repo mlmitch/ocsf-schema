@@ -46,6 +46,9 @@
       "description": "The application that was affected by the lifecycle event.  This also applies to self-updating application systems.",
       "group": "primary",
       "requirement": "required"
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

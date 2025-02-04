@@ -19,6 +19,9 @@
     },
     "message": {
       "description": "The error message as reported by the application."
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

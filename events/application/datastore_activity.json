@@ -118,6 +118,9 @@
           "description": "The datastore resource type is not mapped."
         }
       }
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   },
   "constraints": {

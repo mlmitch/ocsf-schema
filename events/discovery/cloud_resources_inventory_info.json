@@ -44,6 +44,9 @@
       "group": "primary",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "table": {
       "description": "A cloud-based database table discovered by an inventory process.",
       "group": "primary",

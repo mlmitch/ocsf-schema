@@ -45,6 +45,9 @@
       "group": "primary",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "user": {
       "description": "The user to which new privileges were assigned.",
       "group": "primary",

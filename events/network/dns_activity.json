@@ -149,6 +149,9 @@
       "group": "occurrence",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "traffic": {
       "group": "context",
       "requirement": "optional"

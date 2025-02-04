@@ -63,6 +63,9 @@
       "group": "primary",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "type": {
       "description": "The type of FTP network connection (e.g. active, passive).",
       "group": "primary",

@@ -111,6 +111,9 @@
       "description": "The initiator (client) sending the email.",
       "group": "primary",
       "requirement": "recommended"
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }

@@ -113,6 +113,9 @@
       "group": "primary",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "status_id": {
       "description": "The normalized status identifier of the Incident.",
       "group": "primary",

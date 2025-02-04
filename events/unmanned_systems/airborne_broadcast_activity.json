@@ -52,6 +52,9 @@
       "group": "context",
       "requirement": "optional"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "traffic": {
       "description": "Traffic refers to the amount of data transmitted from a ADS-B remote monitoring system at a given point of time. Ex: <code>bytes_in</code> and <code>bytes_out</code>.",
       "group": "context",

@@ -80,6 +80,9 @@
       "group": "primary",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "tree_uid": {
       "group": "primary",
       "requirement": "recommended"

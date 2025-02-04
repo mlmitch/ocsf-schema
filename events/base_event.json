@@ -111,6 +111,11 @@
     "status_detail": {
       "group": "primary",
       "requirement": "recommended"
+    },    
+    "status_detail_id": {
+      "group": "primary",
+      "requirement": "recommended",
+      "description": "A normalized identifier for additional details describing the event/finding status. See specific usage."
     },
     "status_id": {
       "group": "primary",

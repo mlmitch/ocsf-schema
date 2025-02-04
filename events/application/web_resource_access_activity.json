@@ -52,6 +52,9 @@
       "group": "primary",
       "requirement": "recommended"
     },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
+    },
     "tls": {
       "description": "The Transport Layer Security (TLS) attributes, if available.",
       "group": "context",

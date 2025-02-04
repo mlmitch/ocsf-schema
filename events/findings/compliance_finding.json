@@ -31,6 +31,9 @@
       "description": "Describes details about the resource/resouces that are the subject of the compliance check.",
       "group": "primary",
       "requirement": "recommended"
+    },
+    "status_detail_id": {
+      "description": "A normalized identifier for additional details describing the event/finding status."
     }
   }
 }
