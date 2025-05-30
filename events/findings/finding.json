@@ -99,6 +99,10 @@
         "6": {
           "caption": "Deleted",
           "description": "The Finding was deleted. For example, it might have been created in error."
+        },
+        "7": {
+          "caption": "Hidden",
+          "description": "The Finding was hidden. For example, an experimental detection may still fire but be hidden from user interfaces."
         }
       }
     },
