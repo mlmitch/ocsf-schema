@@ -1,0 +1,14 @@
+{
+  "caption": "System API Invocation",
+  "description": "Details regarding the invocation of an API function that is available on an endpoint.",
+  "extends": "object",
+  "name": "system_api_invocation",
+  "attributes": {
+    "system_api_parameters": {
+      "requirement": "recommended"
+    },
+    "system_api_return_value": {
+      "requirement": "recommended"
+    }
+  }
+}

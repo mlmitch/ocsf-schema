@@ -5931,6 +5931,27 @@
       "description": "The service name in service-to-service connections. For example, AWS VPC logs the pkt-src-aws-service and pkt-dst-aws-service fields identify the connection is coming from or going to an AWS service.",
       "type": "string_t"
     },
+    "system_api": {
+      "caption": "System API",
+      "description": "The System API.",
+      "type": "system_api"
+    },
+    "system_api_invocation": {
+      "caption": "System API Invocation",
+      "description": "The System API invocation details.",
+      "type": "system_api_invocation"
+    },
+    "system_api_parameters": {
+      "caption": "System API Invocation Parameters",
+      "description": "The list of parameters passed to a System API function invocation.",
+      "type": "key_value_object",
+      "is_array": true
+    },
+    "system_api_return_value": {
+      "caption": "System API Return Value",
+      "description": "The value returned from a System API function invocation.",
+      "type": "string_t"
+    },
     "system_call": {
       "caption": "System Call",
       "description": "The system call that was invoked.",

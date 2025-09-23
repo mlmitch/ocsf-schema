@@ -1,0 +1,26 @@
+{
+  "uid": 11,
+  "caption": "System API Activity",
+  "description": "System API Activity events report when a system API function has been acted upon.",
+  "extends": "system",
+  "name": "system_api_activity",
+  "attributes": {
+    "activity_id": {
+      "enum": {
+        "1": {
+          "caption": "Invoke"
+        }
+      }
+    },
+    "system_api": {
+      "description": "The target System API function details.",
+      "group": "primary",
+      "requirement": "required"
+    },
+    "system_api_invocation": {
+      "description": "The target System API function invocation details. Should be present for System API Activity: Invoke events.",
+      "group": "primary",
+      "requirement": "recommended"
+    }
+  }
+}

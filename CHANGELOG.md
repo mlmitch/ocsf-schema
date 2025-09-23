@@ -45,11 +45,19 @@ Thankyou! -->
 * #### Categories
 * #### Event Classes
  1. Added `Peripheral Activity` event class to the System category. [#1471](https://github.com/ocsf/ocsf-schema/pull/1471)
+ 1. Added `System API Activity` event class to the System category. [#????](https://github.com/ocsf/ocsf-schema/pull/????)
+
 * #### Profiles
 * #### Objects
+ 1. Added `system_api` and `system_api_invocation` objects [#????](https://github.com/ocsf/ocsf-schema/pull/????)
 * #### Platform Extensions
 * #### Dictionary Attributes
  1. Added `vendor_id_list` as a `string_t` array. [#1471](https://github.com/ocsf/ocsf-schema/pull/1471)
+ 1. Added `system_api` as a `system_api` object. [#????](https://github.com/ocsf/ocsf-schema/pull/????)
+ 1. Added `system_api_invocation` as a `system_api_invocation` object. [#????](https://github.com/ocsf/ocsf-schema/pull/????)
+ 1. Added `system_api_parameters` as a `key_value_object` array. [#????](https://github.com/ocsf/ocsf-schema/pull/????)
+ 1. Added `system_api_return_value` as a `string_t`. [#????](https://github.com/ocsf/ocsf-schema/pull/????)
+
 
 ### Improved
 * #### Categories

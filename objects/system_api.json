@@ -1,0 +1,14 @@
+{
+  "caption": "System API Function",
+  "description": "Details regarding an API function that is available on an endpoint.",
+  "extends": "_entity",
+  "name": "system_api",
+  "attributes": {
+    "name": {
+      "description": "The System API function name."
+    },
+    "uid": {
+      "description": "The System API function unique identifier."
+    }
+  }
+}
